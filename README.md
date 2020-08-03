@@ -9,6 +9,7 @@ Text to Speech Project
 * see the initial result of waveglow, try inference
 * train with one voice only, see the inference
 * check how to add parameters into net training (age / sex/ index of voice etc)
+* read papers - how to improve training and reduce the loss
 * setup flowtron
 * train flowtron, see inference
 * check for financing options
